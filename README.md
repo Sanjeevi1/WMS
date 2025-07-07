@@ -7,7 +7,16 @@ A smart and efficient web-based platform to digitalize and automate waste collec
 ## 🚀 Project Overview
 
 The **Waste Management System (WMS)** streamlines the workflow of waste collection with the following modules:
+## 📸 Screenshots
 
+### ✅ Admin Dashboard
+![Admin Dashboard](https://i.postimg.cc/xdCp8dPb/Screenshot-2025-07-07-183412.png)
+
+### ✅ Request Management Panel
+![Request Panel](https://i.postimg.cc/sXpT0H93/Screenshot-2025-07-07-183649.png)
+
+### ✅ Driver Route View
+![Driver View](https://i.postimg.cc/CKJy61Fv/Screenshot-2025-07-07-183703.png)
 ### 🧍 User Module
 - Submit waste pickup requests with photo and geolocation
 - Track request status (Pending, Assigned, Completed, Rejected)
@@ -60,5 +69,5 @@ The **Waste Management System (WMS)** streamlines the workflow of waste collecti
 
 ---
 
-## 📂 Folder Structure
+
 
